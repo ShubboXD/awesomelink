@@ -1,0 +1,162 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>🚀 Awesome Links</title>
+    <style>
+        body {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #1a1a1a; /* Dark background */
+            color: #f4f4f4; /* Light text for better contrast */
+        }
+        header {
+            background-color: #007bff; /* Cool blue header */
+            text-align: center;
+            padding: 20px;
+        }
+        h1 {
+            margin: 0;
+            font-size: 36px;
+            color: #fff; /* White header text */
+        }
+        .categories {
+            display: flex;
+            flex-direction: column; /* Display categories in a column */
+            align-items: center; /* Center categories horizontally */
+            margin-top: 20px;
+        }
+        .category {
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            margin-bottom: 40px;
+        }
+        .category h2 {
+            margin: 0;
+            font-size: 28px;
+            margin-bottom: 10px;
+        }
+        .link-table {
+            display: flex;
+            flex-direction: row; /* Display link buttons side by side */
+            flex-wrap: wrap; /* Wrap link buttons to the next row if needed */
+            justify-content: center; /* Center the link buttons within the category */
+            list-style-type: none; /* Remove bullet points from the ul */
+            padding: 0; /* Remove default padding for the ul */
+        }
+        .link-table li {
+            margin: 5px; /* Add margin for the list items (link buttons) */
+        }
+        .link-table a {
+            display: inline-block;
+            text-decoration: none;
+            padding: 8px 20px;
+            background-color: #4caf50; /* Green button background */
+            color: #fff; /* White button text */
+            border-radius: 30px;
+            box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.2);
+            transition: background-color 0.3s, transform 0.3s;
+            border: none;
+            cursor: pointer;
+            font-size: 16px;
+        }
+        .link-table a:hover {
+            background-color: #45a049; /* Slightly darker green on hover */
+            transform: translateY(-3px);
+        }
+        .center {
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            width: 100%;
+            max-width: 80%;
+            margin-bottom: 20px;
+            height: auto;
+        }
+        .gif {
+            max-width: 100%;
+            height: auto;
+        }
+        footer {
+            background-color: #333; /* Dark background color */
+            color: #fff; /* Light text color */
+            padding: 20px;
+            text-align: center;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>🚀 Awesome Links</h1>
+    </header>
+    <div class="categories">
+<div class="category">
+        <div class="center">
+            <img class="gif" src="a.gif" alt="Category 1 GIF">
+        </div>
+    <h2>Education</h2>
+    <ul class="link-table">
+        <li><a href="https://www.youtube.com/@PW-Foundation/videos" target="_blank">PW-Foundation</a></li>
+        <li><a href="https://www.youtube.com/@MagnetBrainsEducation/videos" target="_blank">MagnetBrainsEducation</a></li>
+        <li><a href="https://www.youtube.com/@exphub10th" target="_blank">Exphub10th</a></li>
+        <li><a href="https://www.youtube.com/@PhysicsWallah" target="_blank">PhysicsWallah</a></li>
+        <li><a href="https://www.youtube.com/@EDUHAP/videos" target="_blank">EDUHAP</a></li>
+        <li><a href="https://www.youtube.com/playlist?list=PLhf4hr_x5XyRk82GXiqo5XAU9lJE2aPex" target="_blank">One shot all Subjects</a></li>
+    </ul>
+</div>
+<div class="category">
+        <div class="center">
+            <img class="gif" src="b.gif" alt="Category 2 GIF">
+        </div>
+    <h2>Knowledge</h2>
+    <ul class="link-table">
+        <li><a href="https://www.youtube.com/@GIGLIndia/videos" target="_blank">GIGLIndia</a></li>
+        <li><a href="https://www.youtube.com/@shashwatamrev" target="_blank">Shashwat Amrev</a></li>
+        <li><a href="https://www.youtube.com/@yebook/videos" target="_blank">Yebook</a></li>
+        <li><a href="https://www.youtube.com/@VineMontanaTV/videos" target="_blank">VineMontanaTV</a></li>
+        <li><a href="https://www.youtube.com/@PrinceEa/videos" target="_blank">Prince Ea</a></li>
+        <li><a href="https://www.youtube.com/@veritasium/videos" target="_blank">Veritasium</a></li>
+        <li><a href="https://www.youtube.com/@kurzgesagt/videos" target="_blank">Kurzgesagt</a></li>
+        <li><a href="https://www.youtube.com/@theadityasaini/videos" target="_blank">The Aditya Saini</a></li>
+        <li><a href="https://www.youtube.com/@Einzelganger/videos" target="_blank">Einzelganger</a></li>
+        <li><a href="https://www.youtube.com/@NitishRajput/videos" target="_blank">Nitish Rajput</a></li>
+        <li><a href="https://www.youtube.com/@BestBookBits/videos" target="_blank">BestBookBits</a></li>
+        <li><a href="https://www.youtube.com/@dhruvrathee/videos" target="_blank">Dhruv Rathee</a></li>
+        <li><a href="https://www.youtube.com/@AbhiandNiyu/videos" target="_blank">Abhi and Niyu</a></li>
+        <li><a href="https://www.youtube.com/@UmerQureshi/videos" target="_blank">Umer Qureshi</a></li>
+        <li><a href="https://www.youtube.com/@ColeHastings/videos" target="_blank">Cole Hastings</a></li>
+        <li><a href="https://www.youtube.com/@GauravThakur-GSF/videos" target="_blank">Gaurav Thakur</a></li>
+        <li><a href="https://www.youtube.com/@MrVivekBindra/videos" target="_blank">Mr. Vivek Bindra</a></li>
+        <li><a href="https://www.youtube.com/@rahulmalodiaofficial/videos" target="_blank">Rahul Malodia</a></li>
+        <li><a href="https://www.youtube.com/@ProfessorOfHow/videos" target="_blank">ProfessorOfHow</a></li>
+        <li><a href="https://www.youtube.com/@GetSetFly/videos" target="_blank">GetSetFly</a></li>
+        <li><a href="https://www.youtube.com/@AshutoshPratihastAP/videos" target="_blank">Ashutosh Pratihast</a></li>
+        <li><a href="https://www.youtube.com/@LabourLawAdvisor/videos" target="_blank">Labour Law Advisor</a></li>
+        <li><a href="https://www.youtube.com/@SandeepSeminars/videos" target="_blank">Sandeep Seminars</a></li>
+    </ul>
+</div
+<div class="category">
+        <div class="center">
+            <img class="gif" src="c.gif" alt="Category 3 GIF">
+        </div>
+    <h2>Courses</h2>
+    <ul class="link-table"> 
+        <li><a href="https://www.khanacademy.org" target="_blank">Khan Academy</a></li>
+        <li><a href="https://www.mindluster.com/" target="_blank">Mindluster</a></li>
+        <li><a href="https://www.youtube.com/playlist?list=PLVLoWQFkZbhXbBm2BW_R7UiAGL3BUds2G" target="_blank">Class 10 AI</a></li>
+        <li><a href="https://www.youtube.com/playlist?list=PL9ECA8AEB409B3E4F" target="_blank">Finance</a></li>
+        <li><a href="https://www.youtube.com/playlist?list=PLFQ0hRWyH11RS4KUPadj6aoC2KtEHVIfN" target="_blank">Stock Market</a></li>
+        <li><a href="https://www.youtube.com/playlist?list=PLf5N6dqfQaNRHiN68HhNpFcRAl5Zfo0Qz" target="_blank">Investing Basics</a></li>
+        <li><a href="https://www.youtube.com/watch?v=fP6DahAEAkI" target="_blank">Candlestick Patterns</a></li>
+        <li><a href="https://www.youtube.com/playlist?list=PLhUgrztgP6TwxTrohbnJ0jtIO-Vh2uEjL" target="_blank">Copywriting</a></li>
+    </ul>
+</div>
+      </div>
+    </div>
+    <!-- Footer section -->
+    <footer>
+        <p>&copy; 2023 Shub. All rights reserved.</p>
+    </footer>
+</body>
+</html>
